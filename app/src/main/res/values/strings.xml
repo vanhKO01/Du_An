@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JPMart</string>
+    <string name="login">Đăng nhập</string>
+    <string name="username">Tài khoản</string>
+    <string name="password">Mật khẩu</string>
+    <string name="remember_password">Ghi nhớ mật khẩu</string>
+    <string name="welcome">Welcome to JPMart</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete">Xóa</string>
+    <string name="add">Thêm</string>
+    <string name="edit">Sửa</string>
+    <string name="checkout">Thanh toán</string>
+</resources>
